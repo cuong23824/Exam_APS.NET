@@ -1,0 +1,8 @@
+C:\FPT-Aptech\Sem_3\ASP_NET\Exam\obj\Debug\net7.0\Exam.csproj.AssemblyReference.cache
+C:\FPT-Aptech\Sem_3\ASP_NET\Exam\obj\Debug\net7.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT-Aptech\Sem_3\ASP_NET\Exam\obj\Debug\net7.0\Exam.AssemblyInfoInputs.cache
+C:\FPT-Aptech\Sem_3\ASP_NET\Exam\obj\Debug\net7.0\Exam.AssemblyInfo.cs
+C:\FPT-Aptech\Sem_3\ASP_NET\Exam\obj\Debug\net7.0\Exam.csproj.CoreCompileInputs.cache
+C:\FPT-Aptech\Sem_3\ASP_NET\Exam\obj\Debug\net7.0\Exam.MvcApplicationPartsAssemblyInfo.cache
+C:\FPT-Aptech\Sem_3\ASP_NET\Exam\obj\Debug\net7.0\Exam.RazorAssemblyInfo.cache
+C:\FPT-Aptech\Sem_3\ASP_NET\Exam\obj\Debug\net7.0\Exam.RazorAssemblyInfo.cs
